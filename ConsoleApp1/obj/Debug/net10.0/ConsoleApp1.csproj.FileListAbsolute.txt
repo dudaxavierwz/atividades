@@ -12,3 +12,4 @@ C:\Users\42224929811\Desktop\MediaNotas\.vs\ConsoleApp1\ConsoleApp1\obj\Debug\ne
 C:\Users\42224929811\Desktop\MediaNotas\.vs\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
 C:\Users\42224929811\Desktop\MediaNotas\.vs\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\42224929811\Desktop\MediaNotas\.vs\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\42224929811\Desktop\MediaNotas\.vs\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
